@@ -1,0 +1,3 @@
+rootProject.name = 'MergeSort'
+include 'test_task'
+
